@@ -16,8 +16,8 @@ While large server side monolithic applications still exist, the industry is in 
 
 With the shift towards JAMStack, Static Site Generators (SSGs) are becoming more and more popular. In this session we are going to clear up any questions you might have about what SSGs are and what you can build with them. Specifically we are going to look at the landscape of SSGs in the Vue ecosystem. We will create a simple application and discuss your options for deploying your static site. 
 
-## Learn a new skill fast: A guide to continued learning and personal growth
+## Acquire new skills fast: A guide to continued learning and personal growth
 
-A popular Chinese proverb states: “The best time to plant a tree was 20 years ago. The second best time is now.” Dan Vega, self-taught programmer with 20+ years experience in technology, will share life lessons that helped turn his lifelong passion for learning (and teaching) into an exciting career. 
+A popular Chinese proverb states: “The best time to plant a tree was 20 years ago. The second best time is now.” Dan Vega, self-taught programmer with 20+ years experience in Software Development, will share life lessons that helped turn his lifelong passion for learning (and teaching) into an exciting career. 
 
-Do you find yourself overwhelmed with a list of things you would like to learn but have no idea where to start? In this session we will debunk myths that it takes forever to learn a new skill. You will walk away from this presentation with a specific plan on how you can acquire new skills rapidly.
+Do you find yourself overwhelmed with a list of things you would like to learn but have no idea where to start? In this session we will debunk myths that it takes monumental amounts of effort and time to learn a new skill. You will walk away from this presentation with a specific plan on how you can acquire new skills rapidly.

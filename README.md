@@ -12,9 +12,9 @@ Dan believes that having a passion for learning is the secret to his success. He
 
 ## Static Site Generators in VueJS
 
-While large server side monolithic applications still exist, the industry is in the middle of a major shift away from them. With the advancement of JavaScript frameworks and the language itself we are pushing more and more to the client these days. This trend in web development has been dubbed JAMStack, which stands for JavaScript + API + Markup. 
+While large server-side monolithic applications still exist, the industry is in the middle of a major shift away from them. With the advancement of JavaScript frameworks and the language itself, we are pushing more and more to the client these days. This trend in web development has been dubbed JAMStack, which stands for JavaScript + API + Markup.
 
-With the shift towards JAMStack, Static Site Generators (SSGs) are becoming more and more popular. In this session we are going to clear up any questions you might have about what SSGs are and what you can build with them. Specifically we are going to look at the landscape of SSGs in the Vue ecosystem. We will create a simple application and discuss your options for deploying your static site. 
+With the shift towards JAMStack, Static Site Generators (SSGs) are becoming more and more popular. In this session, we are going to clear up any questions you might have about what SSGs are and what you can build with them. Specifically, we are going to look at the landscape of SSGs in the Vue ecosystem. We will create a simple application and discuss your options for deploying your static site.
 
 ## Acquire new skills fast: A guide to continued learning and personal growth
 
